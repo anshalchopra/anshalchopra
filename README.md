@@ -1,6 +1,6 @@
-## Hi there 👋 My name is Anshal
+## Hi there 👋! My name is Anshal
 
-#### I am an aspiring Cloud Solution Architect, actively building the skills and knowledge to reach this goal. Driven by my enthusiasm for Big Data technologies, cloud platforms, and scalable systems, my current focus is on becoming a Data Engineer, taking the next step in my career journey.
+#### I am an aspiring Cloud Solution Architect ☁️💡, actively building the skills and knowledge to reach this goal. Driven by my enthusiasm for Big Data 📊🔍 technologies, cloud platforms 🌥️🌐, and scalable systems ⚙️🚀, my current focus is on becoming a Data Engineer 🛠️💻, taking the next step in my career journey.
 
 <!--
 **anshalchopra/anshalchopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
