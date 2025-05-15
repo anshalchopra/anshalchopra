@@ -12,35 +12,35 @@ I blend analytical rigor with business intuition to uncover insights that drive 
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-F2C811?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-F2C811?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-F2C811?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F2C811?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F2C811?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-C28800?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-C28800?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-C28800?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C28800?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C28800?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-C28800?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### BI Cloud & Analytics Platform
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=tableau&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-F2C811?style=for-the-badge&logo=microsoft&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-F2C811?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-C28800?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-C28800?style=for-the-badge&logo=tableau&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-C28800?style=for-the-badge&logo=microsoft&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-C28800?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Big Data & Dev Tools
 
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-F2C811?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-F2C811?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F2C811?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-F2C811?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-F2C811?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-C28800?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-C28800?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-C28800?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-C28800?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-C28800?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Data Science & Machine Learning Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-F2C811?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F2C811?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F2C811?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-F2C811?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-C28800?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-C28800?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-C28800?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-C28800?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-C28800?style=for-the-badge&logo=pytorch&logoColor=white)
 
 --- 
 ## 🎯 Focus Areas
