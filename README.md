@@ -56,8 +56,8 @@ I’m actively sharpening my edge at the intersection of data scalability and in
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshalchopra&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshalchopra&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshalchopra&show_icons=true&theme=gruvbox" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshalchopra&layout=compact&theme=gruvbox" height="150"/>
 </p>
 
 ---
