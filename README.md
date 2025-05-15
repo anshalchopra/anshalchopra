@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-📊 **Data Analyst / Business Intelligence Analyst** | ☁️ **Aspiring Big Data & Cloud Engineer**
+📊 **Data/BI Analyst** | ☁️ **Aspiring Big Data & Cloud Engineer**
 
 I blend analytical rigor with business intuition to uncover insights that drive decisions. My current journey is evolving from classic data analytics toward mastering scalable **big data systems** and **cloud-native pipelines**, transforming how organizations think about data at scale.
 
