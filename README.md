@@ -2,7 +2,7 @@
 
 🔍 **Data Analyst** | 📊 **Business Intelligence Enthusiast** | ☁️ **Aspiring Big Data & Cloud Engineer**
 
-I blend analytical rigor with business intuition to uncover insights that drive decisions. My current journey is evolving from classic data analytics toward mastering scalable **big data systems** and **cloud-native pipelines**—transforming how organizations think about data at scale.
+I blend analytical rigor with business intuition to uncover insights that drive decisions. My current journey is evolving from classic data analytics toward mastering scalable **big data systems** and **cloud-native pipelines**, transforming how organizations think about data at scale.
 
 ---
 
@@ -33,27 +33,12 @@ I blend analytical rigor with business intuition to uncover insights that drive 
 
 ---
 
-## 🧠 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| `superstore-demand-forecast` | Forecast hourly item sales and trigger restocking logic | Python, Prophet, Pandas, Azure |
-| `medallion-architecture-demo` | Built a full medallion data lake with unclean event data | Spark, Delta Lake, Databricks |
-| `marketing-segmentation` | Customer segmentation for a mock Lululemon dataset | SQL, K-Means, Seaborn |
 
----
-
-## ✍️ Recent Learnings & Experiments
-- 📚 Built a synthetic retail pipeline simulating 15-min batch ingest & forecast loop  
-- ⚙️ Created Power BI dashboards with dynamic filtering for stakeholders  
-- 📦 Deployed automated data workflows via Azure pipelines & blob triggers  
-
----
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat&logo=googlechrome)](https://YOUR-PERSONAL-SITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshalc)
 
 ---
 
