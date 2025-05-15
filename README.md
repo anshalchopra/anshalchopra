@@ -46,10 +46,10 @@ I blend analytical rigor with business intuition to uncover insights that drive 
 ## 🎯 Focus Areas
 
 I’m actively sharpening my edge at the intersection of data scalability and intelligence. My core interests include:
-	•	⚙️ Designing resilient data pipelines that unify real-time streams and scheduled batch layers
-	•	☁️ Engineering analytics-ready systems across multi-cloud platforms like Azure, AWS, and GCP
-	•	📊 Operational intelligence through predictive modeling, trend detection, and root-cause analytics
-	•	🧱 Architecting robust lakehouse frameworks that tame raw, disordered data into trusted assets
+- ⚙️ Designing resilient data pipelines that unify real-time streams and scheduled batch layers
+- ☁️ Engineering analytics-ready systems across multi-cloud platforms like Azure, AWS, and GCP
+- 📊 Operational intelligence through predictive modeling, trend detection, and root-cause analytics
+- 🧱 Architecting robust lakehouse frameworks that tame raw, disordered data into trusted assets
 
 ---
 
@@ -67,5 +67,3 @@ I’m actively sharpening my edge at the intersection of data scalability and in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshalc)
 
 ---
-
-_“Build systems that understand the business as well as the numbers.”_
