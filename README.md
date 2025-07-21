@@ -62,12 +62,12 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshalc)
-[![GitHub](https://img.shields.io/badge/GitHub-Anshal-001F54?style=flat&logo=github&logoColor=white)](https://github.com/anshalchopra)
-[![Medium](https://img.shields.io/badge/Medium-Anshal-001F54?style=flat&logo=medium&logoColor=white)](https://medium.com/@anshalchopra)
-[![Substack](https://img.shields.io/badge/Substack-Anshal-ff6719?style=flat&logo=substack&logoColor=white)](https://anshal.substack.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Anshal-001F54?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anshalc)
-[![Instagram](https://img.shields.io/badge/Instagram-Anshal-001F54?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anshal.chopra)
-[![Threads](https://img.shields.io/badge/Threads-Anshal-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@anshal.chopra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshalc)
+[![GitHub](https://img.shields.io/badge/GitHub-Anshal-001F54?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshalchopra)
+[![Medium](https://img.shields.io/badge/Medium-Anshal-001F54?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anshalchopra)
+[![Substack](https://img.shields.io/badge/Substack-Anshal-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://anshal.substack.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Anshal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anshalc)
+[![Instagram](https://img.shields.io/badge/Instagram-Anshal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshal.chopra)
+[![Threads](https://img.shields.io/badge/Threads-Anshal-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@anshal.chopra)
 
 ---
