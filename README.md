@@ -60,12 +60,10 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 # Socials
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshalc)
-[![Medium](https://img.shields.io/badge/Medium-Anshal-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@anshalchopra)
-[![Substack](https://img.shields.io/badge/Substack-Anshal-FF6719?style=flat&logo=substack&logoColor=white)](https://anshal.substack.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Anshal-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anshalc)
-[![Instagram](https://img.shields.io/badge/Instagram-Anshal-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anshal.chopra)
-[![Threads](https://img.shields.io/badge/Threads-Anshal-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@anshal.chopra)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshalc)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@anshalchopra)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://anshal.substack.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anshalc)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anshal.chopra)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@anshal.chopra)
 ---
