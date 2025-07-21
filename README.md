@@ -12,8 +12,7 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ## 🚀 Tech Stack
 
-### 🧠 Languages  
-[Explore language-related projects on GitHub](https://github.com/anshal-ds?tab=repositories&q=language)
+### Languages  
 
 [![Python](https://img.shields.io/badge/Python-001F54?style=for-the-badge&logo=python&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=python)
 [![R](https://img.shields.io/badge/R-001F54?style=for-the-badge&logo=r&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=R)
@@ -25,7 +24,6 @@ I’m especially passionate about helping small businesses bridge the data and a
 ---
 
 ### ☁️ Cloud & BI Platforms  
-[See BI and cloud project examples](https://github.com/anshal-ds?tab=repositories&q=cloud+BI)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-001F54?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=powerbi)
 [![Tableau](https://img.shields.io/badge/Tableau-001F54?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=tableau)
@@ -35,7 +33,6 @@ I’m especially passionate about helping small businesses bridge the data and a
 ---
 
 ### ⚙️ Data Engineering & Workflow Orchestration  
-[Explore pipelines and data infra projects](https://github.com/anshal-ds?tab=repositories&q=data+engineering)
 
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-001F54?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=kafka)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-001F54?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=spark)
@@ -46,7 +43,6 @@ I’m especially passionate about helping small businesses bridge the data and a
 ---
 
 ### 📊 Data Science & Machine Learning  
-[View ML and analytics projects](https://github.com/anshal-ds?tab=repositories&q=machine+learning)
 
 [![Pandas](https://img.shields.io/badge/Pandas-001F54?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=pandas)
 [![NumPy](https://img.shields.io/badge/NumPy-001F54?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=numpy)
@@ -58,8 +54,8 @@ I’m especially passionate about helping small businesses bridge the data and a
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshalchopra&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshalchopra&layout=compact&theme=gruvbox" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshalchopra&show_icons=true&bg_color=001F54&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshalchopra&layout=compact&bg_color=001F54&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150"/>
 </p>
 
 ---
