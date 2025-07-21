@@ -1,6 +1,4 @@
-# Welcome to Anshal's GitHub
-
-## 👨‍💻 About Me
+# Anshal Chopra
 
 **Aspiring Analytics Engineer | Big Data & Cloud Enthusiast**
 
@@ -10,7 +8,7 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ---
 
-## 🚀 Tech Stack
+# Tech Stack
 
 ### Languages  
 
@@ -23,7 +21,7 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ---
 
-### ☁️ Cloud & BI Platforms  
+### Cloud & BI Platforms  
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-001F54?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=powerbi)
 [![Tableau](https://img.shields.io/badge/Tableau-001F54?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=tableau)
@@ -32,7 +30,7 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ---
 
-### ⚙️ Data Engineering & Workflow Orchestration  
+### Data Engineering & Workflow Orchestration  
 
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-001F54?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=kafka)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-001F54?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=spark)
@@ -42,7 +40,7 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ---
 
-### 📊 Data Science & Machine Learning  
+### Data Science & Machine Learning  
 
 [![Pandas](https://img.shields.io/badge/Pandas-001F54?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=pandas)
 [![NumPy](https://img.shields.io/badge/NumPy-001F54?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=numpy)
@@ -51,7 +49,7 @@ I’m especially passionate about helping small businesses bridge the data and a
 [![PyTorch](https://img.shields.io/badge/PyTorch-001F54?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=pytorch)
 
 ---
-## 📈 GitHub Stats
+# GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anshalchopra&show_icons=true&bg_color=001F54&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" />
@@ -60,8 +58,16 @@ I’m especially passionate about helping small businesses bridge the data and a
 
 ---
 
-## 🤝 Let’s Connect
+# Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshalc)
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshal-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshalc)
+[![GitHub](https://img.shields.io/badge/GitHub-Anshal-001F54?style=flat&logo=github&logoColor=white)](https://github.com/anshalchopra)
+[![Medium](https://img.shields.io/badge/Medium-Anshal-001F54?style=flat&logo=medium&logoColor=white)](https://medium.com/@anshalchopra)
+[![Substack](https://img.shields.io/badge/Substack-Anshal-ff6719?style=flat&logo=substack&logoColor=white)](https://anshal.substack.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Anshal-001F54?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anshalc)
+[![Instagram](https://img.shields.io/badge/Instagram-Anshal-001F54?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anshal.chopra)
+[![Threads](https://img.shields.io/badge/Threads-Anshal-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@anshal.chopra)
 
 ---
