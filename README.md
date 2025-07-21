@@ -2,9 +2,10 @@
 
 ## 👨‍💻 About Me
 
-** Aspiring Analytics Engineer | Big Data & Cloud Enthusiast **
+**Aspiring Analytics Engineer | Big Data & Cloud Enthusiast**
 
 I’m an aspiring Data Analytics Engineer with a bachelor’s degree in Data Science and around two years of experience working across the entire data lifecycle. I enjoy diving deep into data and solving complex analytical problems that help businesses save time, reduce costs, and focus on what truly matters: building stronger relationships with their customers. I’m especially passionate about helping small businesses by bridging the knowledge gap in data and analytics — making it easier to build a loyal customer profile.
+
 ---
 
 ## 🚀 Tech Stack
