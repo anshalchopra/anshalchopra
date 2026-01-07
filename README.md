@@ -1,6 +1,5 @@
 # Anshal Chopra
-
-# Tech Stack
+---
 
 ### Languages  
 
@@ -39,14 +38,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-001F54?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=scikit)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-001F54?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=tensorflow)
 [![PyTorch](https://img.shields.io/badge/PyTorch-001F54?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/anshal-ds?tab=repositories&q=pytorch)
-
----
-# GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshalchopra&show_icons=true&bg_color=001F54&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshalchopra&layout=compact&bg_color=001F54&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150"/>
-</p>
 
 ---
 
